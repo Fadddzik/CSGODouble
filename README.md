@@ -1,4 +1,3 @@
-# CSGODouble
 "use strict";
 ////////////CONFING
 var initialBetAmount = 1;   //
